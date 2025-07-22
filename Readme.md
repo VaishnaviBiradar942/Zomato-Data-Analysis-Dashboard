@@ -14,7 +14,7 @@ An interactive Power BI dashboard analyzing Zomato’s restaurant data. The goal
 - Restaurant density in key cities
 
 ## 📷 Dashboard Preview
-*(<img width="1290" height="728" alt="Image" src="https://github.com/user-attachments/assets/d8147ca6-0649-4a24-a6c3-9c1c06f92fe8" />)*
+*<img width="1290" height="728" alt="Image" src="https://github.com/user-attachments/assets/d8147ca6-0649-4a24-a6c3-9c1c06f92fe8" />*
 
 ## 📁 Included
 - `Zomato.pbix`: Main Power BI file
