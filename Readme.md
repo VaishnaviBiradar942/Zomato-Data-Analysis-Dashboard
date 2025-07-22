@@ -21,4 +21,4 @@ An interactive Power BI dashboard analyzing Zomato’s restaurant data. The goal
 
 ## 🧑‍💻 Developed By
 Vaishnavi Biradar 
-[GitHub Profile](https://github.com/VaishnaviBiradar942)|[LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
+[GitHub](https://github.com/VaishnaviBiradar942) | [LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
