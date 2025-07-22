@@ -20,5 +20,5 @@ An interactive Power BI dashboard analyzing Zomato’s restaurant data. The goal
 - `Zomato.pbix`: Main Power BI file
 
 ## 🧑‍💻 Developed By
-Vaishnavi Biradar – Data Analyst Aspirant  
-[LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
+Vaishnavi Biradar 
+[GitHub Profile](https://github.com/VaishnaviBiradar942)|[LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
